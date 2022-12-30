@@ -16,6 +16,10 @@
         width: 100%;
     }
 
+    .s-hidden {
+        display: none;
+    }
+
     .header .nav {
         display: none;
     }
